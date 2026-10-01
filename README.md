@@ -212,8 +212,14 @@ python -m evaluator.see single \
 If you use CEG-Agent in your research, please cite:
 
 ```bibtex
-@misc{ceg2026,
-  title={From Anomalies to Failures: Constructing Causal Error Graphs for Agentic Trace Diagnosis}
+@misc{yang2026anomaliesfailuresconstructingcausal,
+      title={From Anomalies to Failures: Constructing Causal Error Graphs for Agentic Trace Diagnosis}, 
+      author={Shu-Xun Yang and Yidong Wang and Zhuoer Feng and Bosi Wen and Jiayi Gui and Dayong Yang and Wenbo Yu and Haoke Zhang and Jie Tang and Cunxiang Wang},
+      year={2026},
+      eprint={2609.32514},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2609.32514}, 
 }
 ```
 
